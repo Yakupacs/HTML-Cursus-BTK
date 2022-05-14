@@ -1,0 +1,11 @@
+body {
+    border-style: solid;
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    background-image: url(image/background.jpg);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
